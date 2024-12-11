@@ -80,3 +80,7 @@ pip install pip install pyttsx3
   <img src="runs/detect/predict/test-4.webp" alt="Image description" width="500"/>
 </div> 
 
+***
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Pradeep-1496/Human_Activity_Model/tree/main?tab=readme-ov-file#)
