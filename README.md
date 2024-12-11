@@ -4,7 +4,6 @@
   <img src="runs/detect/predict/test-2.webp" alt="Image description" width="500"/>
   <img src="runs/detect/predict/test-3.webp" alt="Image description" width="500"/>
   <img src="runs/detect/predict/test-4.webp" alt="Image description" width="500"/>
-  <img src="runs/detect/predict/vid.mp4" alt="Image description" width="500"/>
   
 </div> 
-z
+
