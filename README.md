@@ -8,6 +8,14 @@
 
 The **Human Activity Model** project aims to create an integrated system for object detection and human activity recognition, enhanced by voice output functionality. The system is designed to identify objects and analyze human activities in real time, providing interactive feedback that enhances accessibility, especially for individuals with visual impairments.
 
+
+***
+## Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
+
 ***
 ### Key Features:
 1. **Object Detection**: 
