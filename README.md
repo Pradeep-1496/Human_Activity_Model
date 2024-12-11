@@ -1,6 +1,6 @@
 ## Installation
 
-Use the package manager [pip](https://pypi.org/project/opencv-python/) to install foobar.
+[cv2](https://pypi.org/project/opencv-python/)
 
 ```bash
 pip install opencv-python
