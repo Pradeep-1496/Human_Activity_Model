@@ -18,12 +18,13 @@ The **Human Activity Model** project aims to create an integrated system for obj
    - Provides audible feedback of detected objects and activities, making it accessible for individuals with visual impairments.
 
 
-
+***
 ### Purpose:
 - Improve accessibility for people with visual impairments.
 - Enhance user interaction in smart home environments.
 - Provide real-time recognition tools for security and surveillance applications.
 
+***
 ### Technologies Used:
 - **Programming Language**: Python
 - **Machine Learning Frameworks**: TensorFlow, Keras
@@ -31,23 +32,26 @@ The **Human Activity Model** project aims to create an integrated system for obj
 - **Voice Output**: gTTS (Google Text-to-Speech)
 - **Dataset Sources**: COCO (for object detection), UCF101 (for human activity recognition)
 
+***
 ### Hardware Requirements:
 - **CPU**: Minimum Dual-core (Intel i5 or equivalent)
 - **GPU**: NVIDIA GTX 1050 or higher (Recommended: RTX 2060)
 - **Camera**: HD webcam or external camera (720p resolution or higher)
 
+***
 ### Software Requirements:
 - **Operating System**: Windows, macOS, or Linux
 - **Development Environment**: Anaconda/Miniconda for Python environment management
 - **Libraries**: TensorFlow, Keras, OpenCV, gTTS
 
+***
 ## How to Use:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pradeep-1496/Human_Activity_Model.git
    ```
   
-
+***
 ## Libraries Used & Installation
 
 [cv2](https://pypi.org/project/opencv-python/)
@@ -65,6 +69,8 @@ pip install ultralytics
 ```bash
 pip install pip install pyttsx3
 ```
+
+***
 ## ScreenShots of Output
 <div align="center">
   <img src="runs/detect/predict/19.jpg" alt="Image description" width="500"/>
