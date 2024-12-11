@@ -91,6 +91,10 @@ pip install pip install pyttsx3
 </div> 
 
 ***
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-1496&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image description" width="500"
+</div>
+***
 ## License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Pradeep-1496/Human_Activity_Model/blob/main/LICENSE.txt)
