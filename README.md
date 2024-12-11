@@ -17,6 +17,8 @@ The **Human Activity Model** project aims to create an integrated system for obj
 3. **Voice Output**: 
    - Provides audible feedback of detected objects and activities, making it accessible for individuals with visual impairments.
 
+
+
 ### Purpose:
 - Improve accessibility for people with visual impairments.
 - Enhance user interaction in smart home environments.
