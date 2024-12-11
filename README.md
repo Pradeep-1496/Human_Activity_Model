@@ -42,26 +42,32 @@ The **Human Activity Model** project aims to create an integrated system for obj
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pradeep-1496/Human_Activity_Model.git
+   ```
+  
 
-
-
-
-
-
-## Installation
+## Libraries Used & Installation
 
 [cv2](https://pypi.org/project/opencv-python/)
 
 ```bash
 pip install opencv-python
 ```
+[ultralytics](https://pypi.org/project/ultralytics/)
 
+```bash
+pip install ultralytics
+```
+[pyttsx3](https://pypi.org/project/pyttsx3/)
+
+```bash
+pip install pip install pyttsx3
+```
+## ScreenShots of Output
 <div align="center">
   <img src="runs/detect/predict/19.jpg" alt="Image description" width="500"/>
   <img src="runs/detect/predict/test-1.jpeg" alt="Image description" width="500"/>
   <img src="runs/detect/predict/test-2.webp" alt="Image description" width="500"/>
   <img src="runs/detect/predict/test-3.webp" alt="Image description" width="500"/>
   <img src="runs/detect/predict/test-4.webp" alt="Image description" width="500"/>
-  
 </div> 
 
