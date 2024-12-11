@@ -93,6 +93,8 @@ pip install pip install pyttsx3
 ***
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-1496&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image description" width="500"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-1496&theme=dark&hide_border=true" alt="Image description" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-1496&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image description" width="500"/>
 </div>
 
    
