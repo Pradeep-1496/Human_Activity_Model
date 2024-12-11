@@ -83,18 +83,18 @@ pip install pip install pyttsx3
 ***
 ## ScreenShots of Output
 <div align="center">
-  <img src="runs/detect/predict/19.jpg" alt="Image description" width="500"/>
-  <img src="runs/detect/predict/test-1.jpeg" alt="Image description" width="500"/>
-  <img src="runs/detect/predict/test-2.webp" alt="Image description" width="500"/>
-  <img src="runs/detect/predict/test-3.webp" alt="Image description" width="500"/>
+  <img src="runs/detect/predict/19.jpg" alt="Image description" width="500"/><br/>
+  <img src="runs/detect/predict/test-1.jpeg" alt="Image description" width="500"/><br/>
+  <img src="runs/detect/predict/test-2.webp" alt="Image description" width="500"/><br/>
+  <img src="runs/detect/predict/test-3.webp" alt="Image description" width="500"/><br/>
   <img src="runs/detect/predict/test-4.webp" alt="Image description" width="500"/>
 </div> 
 
 ***
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-1496&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image description" width="500"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-1496&theme=dark&hide_border=false" alt="Image description" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeep-1496&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Image description" width="500"/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pradeep-1496&theme=dark&hide_border=false" alt="Image description" width="500"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep-1496&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Image description" width="500"/>
 </div>
 
