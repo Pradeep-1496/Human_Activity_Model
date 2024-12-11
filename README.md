@@ -8,6 +8,7 @@
 
 The **Human Activity Model** project aims to create an integrated system for object detection and human activity recognition, enhanced by voice output functionality. The system is designed to identify objects and analyze human activities in real time, providing interactive feedback that enhances accessibility, especially for individuals with visual impairments.
 
+
 ### Key Features:
 1. **Object Detection**: 
    - Utilizes Convolutional Neural Networks (CNNs) to detect and classify objects within a visual scene in real time.
