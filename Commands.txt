@@ -1,0 +1,29 @@
+conda info --envs
+
+
+//create env
+conda create -n <name> python=3.12
+
+conda activate yolo_custom
+
+
+// Train
+yolo task=detect mode=train epochs=10 data=data_custom.yaml model=yolov8m.pt imgsz=640
+
+
+
+
+// predict 
+yolo task=detect mode=predict model=HA_1.1.pt show=True conf=0.6 source=19.jpg
+
+yolo task=detect mode=predict model=HA_1.1.pt show=True  conf=0.6 source=vid2.mp4
+
+
+//load model
+from ultralytics import YOLO
+
+model = YOLO('HA_1.1.pt')
+
+
+//for webcam
+model.predict(source="19.jpg", show=True, save=True, conf=0.5)
